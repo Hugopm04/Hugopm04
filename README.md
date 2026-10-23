@@ -12,4 +12,4 @@ Final-year Computer Engineering student at the University of Granada (Spain).
   from scratch in NumPy; [ClauDali](https://github.com/Hugopm04/ClauDali), structured-prompt image generation over
   local SDXL, built with Claude Code.
 - **Languages:** Spanish (native), English (C1).
-- **Contact:** hugoperezm2004trabajo@gmail.com
+- **Contact:** hugoperezm2004trabajo@gmail.com · [LinkedIn](https://www.linkedin.com/in/hugo-perez-munoz)
